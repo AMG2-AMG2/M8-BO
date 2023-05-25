@@ -24,11 +24,11 @@
 </details>
 
 ## Taakverdeling📝
-### Ahmet (Design/Code)
-### Abdi (Code/Design)
-### Halil (Documentatie/Code/Ontwerp)
-### Vinicius (Design/Code)
-### Calvin (Documentatie/Code)
+**Ahmet (Design/Code)  
+Abdi (Code/Design)  
+Halil (Documentatie/Code/Ontwerp)  
+Vinicius (Design/Code)  
+Calvin (Documentatie/Code)**
 
 ## Gebouwd met:
 
