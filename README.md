@@ -5,7 +5,7 @@
 ### Ahmet (Design/Code)
 ### Abdi (Code)
 ### Halil (Documentatie/Code/Ontwerp)
-### Vinicius (Design)
+### Vinicius (Design/Code)
 ### Calvin (Documentatie/Code)
 
 
