@@ -3,7 +3,7 @@
 
 # 📝 Taak-Verdeling 📝
 ### Ahmet (Design/Code)
-### Abdi (Code)
+### Abdi (Code/Design)
 ### Halil (Documentatie/Code/Ontwerp)
 ### Vinicius (Design/Code)
 ### Calvin (Documentatie/Code)
