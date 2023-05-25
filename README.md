@@ -1,4 +1,4 @@
-<h1 align="center">...</h1>
+<h1 align="center">Kristal Helder Licht</h1>
 
 <p align="justify">inleiding. </p>
 
@@ -33,8 +33,9 @@
 ## Gebouwd met:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" title="PHP" width="40" height="40"/>
   <img src="./Media/wordpress-logo.svg" alt="Wprdpress" title="Wordpress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
 </p>
  
 
